@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # --- PHẦN XỬ LÝ DỮ LIỆU ---
 data = {
-    'Họ tên': ['SV1', 'SV2', 'SV3', 'SV4', 'SV5', 'SV6', 'SV7', 'SV8', 'SV9', 'SV10'],
+    'Họ tên': ['An', ' Bình', ' Cường', ' Dũng', ' Giang', ' Hải', ' Khanh', ' Linh', ' Minh', ' Nam'],
     'Chuyên cần': [9, 8, 7, 10, 6, 8, 9, 5, 10, 7],
     'Giữa kỳ': [8, 7, 6, 9, 5, 8, 7, 6, 9, 8],
     'Cuối kỳ': [8.5, 8, 5, 9.5, 6, 9, 7.5, 4, 9, 7.5]
